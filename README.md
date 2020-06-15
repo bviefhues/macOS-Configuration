@@ -80,14 +80,6 @@ Anzeige:
 ## root Password
 
 
-## Default Applications
-
-### Finder
-
-### Terminal
-
-
-
 ## brew
 
 Install brew:
@@ -107,6 +99,17 @@ Applications
 ```
 brew cask install alt-tab gimp hammerspoon keka macvim mpv iina skype google-chrome vlc dropbox firefox bbedit grandperspective skype-for-business rocket-typist bettertouchtool bartender google-chat itsycal google-drive-file-stream
 ```
+
+## Default Applications
+
+### Finder
+
+### Terminal
+
+### Mail
+
+Install keyboard plugin
+
 
 ## Chrome Web Apps
 

@@ -110,6 +110,8 @@ brew cask install alt-tab gimp hammerspoon keka macvim mpv iina skype google-chr
 
 - Configure accounts
 - Install keyboard plugin
+- Rules
+- Gspamblock
 
 
 ## Chrome Web Apps

@@ -108,7 +108,8 @@ brew cask install alt-tab gimp hammerspoon keka macvim mpv iina skype google-chr
 
 ### Mail
 
-Install keyboard plugin
+- Configure accounts
+- Install keyboard plugin
 
 
 ## Chrome Web Apps
@@ -126,25 +127,25 @@ FIXME
 
 ## App Store
 
-https://apps.apple.com/de/app/copyclip-clipboard-history/id595191960?mt=12
-https://apps.apple.com/de/app/meeter-f%C3%BCr-zoom-teams-co/id1510445899
-https://apps.apple.com/de/app/tasktab-simple-to-do-list/id1395414535?mt=12
-https://apps.apple.com/de/app/slack/id803453959?mt=12
-https://apps.apple.com/de/app/battery-stats-for-airpods/id1405763798?mt=12
-https://apps.apple.com/de/app/simplemind-lite-mind-mapping/id439654198?mt=12
-https://apps.apple.com/de/app/geogebra-graphing-calculator/id1294018688?mt=12
-https://apps.apple.com/de/app/automute-preventing-awkward-situations/id1118136179?mt=12
-https://apps.apple.com/de/app/byword/id420212497?mt=12
-https://apps.apple.com/de/app/keynote/id409183694?mt=12
-https://apps.apple.com/de/app/pages/id409201541?mt=12
-https://apps.apple.com/de/app/numbers/id409203825?mt=12
-https://apps.apple.com/de/app/whatsapp-desktop/id1147396723
-https://apps.apple.com/de/app/moom/id419330170?mt=12
-https://apps.apple.com/de/app/clean/id418412301?mt=12
-https://apps.apple.com/de/app/icmputil/id866965011?mt=12
-https://apps.apple.com/de/app/1password/id443987910?mt=12
-https://apps.apple.com/de/app/xcode/id497799835?mt=12
-https://apps.apple.com/de/app/the-unarchiver/id425424353?mt=12
+- [Copyclip](https://apps.apple.com/de/app/copyclip-clipboard-history/id595191960?mt=12)
+- [Meeter](https://apps.apple.com/de/app/meeter-f%C3%BCr-zoom-teams-co/id1510445899)
+- [Tasktab](https://apps.apple.com/de/app/tasktab-simple-to-do-list/id1395414535?mt=12)
+- [Slack](https://apps.apple.com/de/app/slack/id803453959?mt=12)
+- [Battery stats for Airpod](https://apps.apple.com/de/app/battery-stats-for-airpods/id1405763798?mt=12)
+- [Simplemind Lite](https://apps.apple.com/de/app/simplemind-lite-mind-mapping/id439654198?mt=12)
+- [Geogebra](https://apps.apple.com/de/app/geogebra-graphing-calculator/id1294018688?mt=12)
+- [Automute](https://apps.apple.com/de/app/automute-preventing-awkward-situations/id1118136179?mt=12)
+- [Byword](https://apps.apple.com/de/app/byword/id420212497?mt=12)
+- [Keynote](https://apps.apple.com/de/app/keynote/id409183694?mt=12)
+- [Pages](https://apps.apple.com/de/app/pages/id409201541?mt=12)
+- [Numbers](https://apps.apple.com/de/app/numbers/id409203825?mt=12)
+- [Whatsapp Desktop](https://apps.apple.com/de/app/whatsapp-desktop/id1147396723)
+- [Moom](https://apps.apple.com/de/app/moom/id419330170?mt=12)
+- [Clean](https://apps.apple.com/de/app/clean/id418412301?mt=12)
+- [ICMPUtil](https://apps.apple.com/de/app/icmputil/id866965011?mt=12)
+- [1Password](https://apps.apple.com/de/app/1password/id443987910?mt=12)
+- [XCode](https://apps.apple.com/de/app/xcode/id497799835?mt=12)
+- [The Unarchiver](https://apps.apple.com/de/app/the-unarchiver/id425424353?mt=12)
 
 ## Dock and Menu bar
 

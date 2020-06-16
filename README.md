@@ -121,9 +121,13 @@ brew cask install alt-tab gimp hammerspoon keka macvim mpv iina skype google-chr
 
 ## Config files
 
-## Patch Google Chat
+## Installed Applications
 
-## Microsoft Office
+### Karabiner Elements
+
+### Patch Google Chat CSS
+
+## Install Microsoft Office
 
 FIXME
 

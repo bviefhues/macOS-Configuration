@@ -97,7 +97,7 @@ brew install htop vim midnight-commander ncdu python wget cask
 Applications
 
 ```
-brew cask install alt-tab gimp hammerspoon keka macvim mpv iina skype google-chrome vlc dropbox firefox bbedit grandperspective skype-for-business rocket-typist bettertouchtool bartender google-chat itsycal google-drive-file-stream
+brew cask install alt-tab gimp hammerspoon keka macvim mpv iina skype google-chrome vlc dropbox firefox bbedit grandperspective skype-for-business rocket-typist bettertouchtool bartender google-chat itsycal google-drive-file-stream karabiner-elements
 ```
 
 ## Default Applications

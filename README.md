@@ -156,5 +156,6 @@ FIXME
 ## Dock and Menu bar
 
 - Configure Dock
+- VerticalBar
 - Configure Menu Bar
 

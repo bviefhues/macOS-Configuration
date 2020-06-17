@@ -104,6 +104,8 @@ brew cask install alt-tab gimp hammerspoon keka macvim mpv iina skype google-chr
 
 ### Finder
 
+- Enable path and status bar
+
 ### Terminal
 
 ### Mail
